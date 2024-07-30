@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/SartHak-0-Sach/Room-homepage_frontend_project)
+- Solution URL: [GitHub Repository](https://github.com/anma-dev/react-rooms.git)
 - Live Site URL: [Live Site](https://room-home-page-frontend.netlify.app/)
 
 ## My Process
@@ -82,10 +82,8 @@ These key points mentioned here will help me grow accountable and consistent tow
 
 ## Author
 
-<b><strong>Sarthak Sachdev</strong></b>
-- Website - [Sarthak Sachdev](https://itsmesarthak.netlify.app/)
-- LeetCode - [@sarthak_sachdev](https://leetcode.com/u/sarthak_sachdev/)
-- Twitter - [@sarthak_sach69](https://www.twitter.com/sarthak_sach69)
+<b><strong>Andrija Matic</strong></b>
+- Website - [Andrija Matic](https://itsmesarthak.netlify.app/)
 
 ## Acknowledgments
 
