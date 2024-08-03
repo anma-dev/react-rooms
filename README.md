@@ -1,6 +1,6 @@
 # Room Homepage
 
-## Welcome ✌🏻
+## Welcome 👏
 
 ## Table of Contents
 
